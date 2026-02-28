@@ -167,7 +167,7 @@ body::before {
   border: 1px solid var(--surface-border);
   padding: 0 0.8rem;
   background:
-    linear-gradient(180deg, #ffffff, #f7fafc);
+    linear-gradient(180deg, #4d78d3, #f7fafc);
   color: var(--ink-900);
   font-size: 0.96rem;
   font-weight: 500;
