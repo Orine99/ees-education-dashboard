@@ -169,7 +169,7 @@ npm install
 npm run dev
 ```
 
-Then open `http://localhost:3000`.
+Then open `https://ees-education-dashboard.vercel.app/`.
 
 Available scripts:
 - `npm run dev`
